@@ -1,1 +1,1 @@
-# spring-crud_2
+# spring-crud hotel management
